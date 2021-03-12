@@ -11,7 +11,7 @@
   * the satellite detecting the TGF is assumed at 400 km altitude (other altitude can be deduced by projection)
 
 * The data was generated using the Geant4 (Monte-Carlo) based code available here: 
-https://github.com/DavidSarria89/TGF-Propagation-Geant4-MT/
+https://github.com/DavidSarria89/TGF-Propagation-Geant4
 
 
 * Example plots:
